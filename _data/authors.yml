@@ -1,0 +1,13 @@
+# Author details.
+tzhou:
+  name: Tianying Zhou
+  picture: /images/ty.png
+  #twitter: "@billyrick"
+
+john_smith:
+  name: John Smith  
+  picture: /images/someone.png
+  #links:
+   # - title: Twitter
+    #  url: https://twitter.com/billyrick
+     # icon: fab fa-twitter-square

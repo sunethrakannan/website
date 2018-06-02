@@ -1,0 +1,18 @@
+
+.main_profile{
+  margin-left: 60px;
+  border-bottom: 2px solid grey;
+  float: left;
+}
+
+.main_profile #main_img {
+  border-radius: 50%;
+  float: left;
+}
+
+.main_profile #main_info {
+   //border: 1px solid black;
+   float: left;
+   margin-left:60px;
+   max-width: 500px;
+}

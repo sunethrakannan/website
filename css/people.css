@@ -1,7 +1,6 @@
 
 .main_profile{
   margin-left: 60px;
-  border-bottom: 2px solid grey;
   float: left;
 }
 
@@ -15,4 +14,28 @@
    float: left;
    margin-left:60px;
    max-width: 500px;
+}
+
+.block{
+	max-width: 33%;
+	float: left;
+	margin-top: 40px;
+}
+
+.single_profile{
+  margin-left: 60px;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.single_profile #single_img{
+  border-radius: 50%;
+  float: left;
+  width:100px;
+}
+
+.single_profile #single_info{
+   float: left;
+   margin-left:40px;
 }

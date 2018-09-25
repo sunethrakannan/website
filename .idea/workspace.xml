@@ -61,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+              <caret line="233" column="18" selection-start-line="233" selection-start-column="18" selection-end-line="233" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -71,6 +71,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ffi</find>
+      <find>ruby</find>
+      <find>rubyzip</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -96,8 +98,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="490" />
-    <option name="y" value="79" />
+    <option name="x" value="439" />
+    <option name="y" value="332" />
     <option name="width" value="1400" />
     <option name="height" value="772" />
   </component>
@@ -167,15 +169,15 @@
       <option name="presentableId" value="Default" />
       <updated>1536901327465</updated>
       <workItem from="1536901331002" duration="2242000" />
-      <workItem from="1537849159887" duration="2250000" />
+      <workItem from="1537849159887" duration="2338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4492000" />
+    <option name="totallyTimeSpent" value="4580000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="490" y="79" width="1400" height="772" extended-state="0" />
+    <frame x="439" y="332" width="1400" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
@@ -288,7 +290,7 @@
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+          <caret line="233" column="18" selection-start-line="233" selection-start-column="18" selection-end-line="233" selection-end-column="18" />
         </state>
       </provider>
     </entry>

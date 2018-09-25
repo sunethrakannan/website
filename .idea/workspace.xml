@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08a77f92-2373-4986-a1e6-0eeca0518fd7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
-    </list>
+    <list default="true" id="08a77f92-2373-4986-a1e6-0eeca0518fd7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -83,8 +79,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="585" />
-    <option name="y" value="36" />
+    <option name="x" value="383" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="772" />
   </component>
@@ -154,15 +150,15 @@
       <option name="presentableId" value="Default" />
       <updated>1536901327465</updated>
       <workItem from="1536901331002" duration="2242000" />
-      <workItem from="1537849159887" duration="290000" />
+      <workItem from="1537849159887" duration="648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2532000" />
+    <option name="totallyTimeSpent" value="2890000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="585" y="36" width="1400" height="772" extended-state="0" />
+    <frame x="383" y="23" width="1400" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />

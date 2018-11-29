@@ -10,8 +10,7 @@
 }
 
 .main_profile #main_info {
-/*   border: 1px solid black;
-*/ float: left;
+   float: left;
    margin-left:60px;
    width: 50%;
 }

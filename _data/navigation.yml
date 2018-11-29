@@ -12,11 +12,11 @@
 #   url: /tags/
 # - title: Recipes
 #   url: /recipes/
-- title: Research
-  url: /research/
+# - title: Research
+#   url: /research/
 - title: People
   url: /people/
-- title: Contact
-  url: /contact/
+# - title: Contact
+#   url: /contact/
 - title: Search
   url: /search/

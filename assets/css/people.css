@@ -15,17 +15,16 @@
    width: 50%;
 }
 
-.block{
-	max-width: 33%;
-	float: left;
-	margin-top: 40px;
+.single_profile{
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  margin-top: 20px;
 }
 
-.single_profile{
-  margin-left: 60px;
-  float: left;
-  margin-top: 20px;
-  margin-bottom: 20px;
+.block:after{
+    display: table;
+    clear: both;
 }
 
 .single_profile #single_img{

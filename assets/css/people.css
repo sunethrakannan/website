@@ -44,6 +44,15 @@ h1{
   margin-left: 5%;
 }
 
+h3{
+  margin: 10px;
+  margin-left: 0px;
+}
+
+p{
+  margin: 5px;
+}
 .clear{
   clear:both;
 }
+

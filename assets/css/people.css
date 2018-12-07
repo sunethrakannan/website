@@ -17,11 +17,15 @@
 
 .single_profile{
   float: left;
-  width: 33.33%;
+  width: 33%;
   /*padding: 10px;*/
   margin-top: 20px;
   margin-bottom: 20px;
 /*  border: 1px solid red; */
+}
+
+.block{
+  margin-left: 10px;
 }
 
 .block:after{

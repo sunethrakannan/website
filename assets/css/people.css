@@ -60,6 +60,10 @@ p{
   padding: 0px;
   font-size: 10px;
 }
+
+#main_p{
+  font-size: 13px
+}
 .clear{
   clear:both;
 }

@@ -1,22 +1,10 @@
-# Sample site navigation links
+# Site navigation links
 
-- title: Home
-  url: /about/
 - title: About
   url: /about/
 - title: News
   url: /news/
 - title: Publications
   url: /publications/
-# - title: Tags
-#   url: /tags/
-# - title: Recipes
-#   url: /recipes/
-# - title: Research
-#   url: /research/
 - title: People
   url: /people/
-# - title: Contact
-#   url: /contact/
-# - title: Search
-#   url: /search/

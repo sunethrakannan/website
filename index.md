@@ -6,7 +6,6 @@ entries_layout: list
 ---
 
 ![image of Jodi](/images/jodi_schneider.jpeg "Jodi Schneider")
-asdf
 
 I am Assistant Professor of Information Sciences at the University of
 Illinois Urbana-Champaign, where I teach classes in Information

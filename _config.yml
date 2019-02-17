@@ -24,10 +24,11 @@ github_username:  infoqualitylab
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-so-simple
-remote_theme: "mmistakes/so-simple-theme"
+# theme: minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.15.1"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
 search_full_content: true

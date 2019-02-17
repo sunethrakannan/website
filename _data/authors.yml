@@ -1,8 +1,15 @@
 # Author details.
+
+Jodi_Schneider:
+  name: Jodi Schneider
+  picture:
+  twitter: "@jschneider"
+  picture: /images/jodi_schneider.jpeg  
+  
 Tianying_Zhou:
   name: Tianying Zhou
   picture: /images/user1.png
-  #twitter: "@billyrick"
+
 
 John_Smith:
   name: John Smith  

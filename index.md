@@ -5,6 +5,8 @@ show_excerpts: true
 entries_layout: list
 ---
 
+![image of Jodi](/images/jodi_schneider.jpeg "Jodi Schneider")
+
 I am Assistant Professor of Information Sciences at the University of
 Illinois Urbana-Champaign, where I teach classes in Information
 Organization and Access as well as in Information Modeling. I am also a

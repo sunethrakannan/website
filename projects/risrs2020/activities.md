@@ -12,6 +12,6 @@ The project team will host a workshop to bring together diverse stakeholders to 
 
 Following the stakeholder workshop, PI Schneider will develop a consensus white paper with a coherent, actionable set of recommendations for next steps and disseminate the recommendations at select conferences. The goal is that these recommendations will lead to tangible plans for implementing next steps, in cooperation with industry partners within scientific publishing as well as government policymakers and academic institutions. 
 
-For questions about the research study, please contact [Dr. Jodi Schneider](https://ischool.illinois.edu/people/jodi-schneider) at (217) 300-4328 or jodi@illinois.edu
+For questions about the research study, please contact [Dr. Jodi Schneider](https://ischool.illinois.edu/people/jodi-schneider) at +1 (217) 300-4328 or jodi@illinois.edu
 
-Any questions or concerns about your rights as a participant please contact the University of Illinois at Urbana-Champaign Office for the Protection of Research Subjects at (217) 333-2670 or via email at irb@illinois.edu.
+Any questions or concerns about your rights as a participant please contact the [University of Illinois at Urbana-Champaign Office for the Protection of Research Subjects](https://oprs.research.illinois.edu) at +1(217) 333-2670 or via email at irb@illinois.edu.

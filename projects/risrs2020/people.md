@@ -4,4 +4,19 @@ title: People:About Reducing the Inadvertent Spread of Retracted Science: Shapin
 permalink: /projects/risrs2020/people
 ---
 
-Project Team:The Principal Investigator for this study is: Dr. Jodi Schneider, Assistant Professor, School of Information Sciences, University of Illinois at Urbana Champaign jodi@illinois.eduNathan Woods PhD contributes to all stages of the literature review and citation analysis, assists the PI in conducting interviews, and leads the qualitative analysis of all materials. nathanw6@illinois.eduAs Project Manager, MT Campbell provides logistical and administrative support, and manages communication with stakeholders via email and the project website. mtc@illinois.eduStudent Support: Randi Proescholdt, Yoss Arianlou, and Vivien YipAdvisory Board: Daniele Fanelli, PhD, Fellow in Quantitative Methodology, Department of Methodology, London School of Economics and Political Science. Annette Flanagin, Executive Managing Editor and Vice President, Editorial Operations, JAMA and The JAMA NetworkC.K. (Tina) Gunsalus, J.D., Director, National Center for Professional & Research Ethics, University of Illinois at Urbana-ChampaignIvan Oransky, MD. Co-Founder of Retraction Watch & Vice President, Editorial at MedscapeWorkshop Participants:
+**Project Team**
+
+* Dr. [Jodi Schneider](https://ischool.illinois.edu/people/jodi-schneider) (PI), Assistant Professor, School of Information Sciences, University of Illinois at Urbana Champaign. jodi@illinois.edu
+* Dr. Nathan Woods contributes to all stages of the literature review and citation analysis, assists the PI in conducting interviews, and leads the qualitative analysis of all materials. nathanw6@illinois.edu
+* Project Manager, [M.T. Campbell](https://ischool.illinois.edu/people/mt-campbell) provides logistical and administrative support, and manages communication with stakeholders via email and the project website. mtc@illinois.edu
+* Dr. Yuanxi Fu leads the citation analysis and contributes to the literature review.
+* Randi Proescholdt leads the search update process for the literature review.
+* Undergraduates Yoss Arianlou and Vivien Yip contribute to the literature review.
+
+**Advisory Board**
+* [Daniele Fanelli](http://danielefanelli.com), PhD, Fellow in Quantitative Methodology, [Department of Methodology](https://www.lse.ac.uk/methodology/), London School of Economics and Political Science
+* Annette Flanagin, Executive Managing Editor and Vice President, Editorial Operations, JAMA and The JAMA Network
+* [C.K. (Tina) Gunsalus](https://ethicscenter.csl.illinois.edu/people/c-k-gunsalus/), J.D., Director, [National Center for Professional & Research Ethics](https://ethicscenter.csl.illinois.edu), Professor Emerita of Business, and Research Professor at the [Coordinated Sciences Laboratory](http://csl.illinois.edu), University of Illinois at Urbana-Champaign
+* [Ivan Oransky](https://retractionwatch.com/meet-the-retraction-watch-staff/about/), MD. Co-Founder of [Retraction Watch](https://retractionwatch.com) & Vice President, Editorial at [Medscape](https://www.medscape.com), Distinguished Writer In Residence at New York University’s Carter Journalism Institute, and president of the [Association of Health Care Journalists](https://healthjournalism.org).
+
+**Workshop Participants**

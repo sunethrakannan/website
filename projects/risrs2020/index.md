@@ -9,7 +9,7 @@ This project will bring together diverse stakeholders in the academic publishing
 **Project Team**
 
 * Dr. [Jodi Schneider](https://ischool.illinois.edu/people/jodi-schneider) (PI), Assistant Professor, School of Information Sciences, University of Illinois at Urbana Champaign. jodi@illinois.edu
-* Dr. Nathan Woods contributes to all stages of the literature review and citation analysis, assists the PI in conducting interviews, and leads the qualitative analysis of all materials. nathanw6@illinois.edu
+* Dr. [Nathan Woods](https://www.nathandwoods.net) contributes to all stages of the literature review and citation analysis, assists the PI in conducting interviews, and leads the qualitative analysis of all materials. nathanw6@illinois.edu
 * Project Manager, [M.T. Campbell](https://ischool.illinois.edu/people/mt-campbell) provides logistical and administrative support, and manages communication with stakeholders via email and the project website. mtc@illinois.edu
 * Dr. Yuanxi Fu leads the citation analysis and contributes to the literature review.
 * Randi Proescholdt leads the search update process for the literature review.

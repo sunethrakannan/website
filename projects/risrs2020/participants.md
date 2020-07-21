@@ -3,8 +3,6 @@ layout: risrs2020
 title: Workshop Participants
 permalink: /projects/risrs2020/participants
 ---
-
-**Workshop Participants**
 * [Daniele Fanelli](http://danielefanelli.com), PhD, Fellow in Quantitative Methodology, [Department of Methodology](https://www.lse.ac.uk/methodology/), London School of Economics and Political Science
 * Annette Flanagin, RN, MA, FAAN, Executive Managing Editor and Vice President, Editorial Operations, [JAMA](https://jamanetwork.com/journals/jama) and [The JAMA Network](https://jamanetwork.com), and Executive Editor, [JAMAevidence](https://jamaevidence.mhmedical.com)
 * [C.K. (Tina) Gunsalus](https://ethicscenter.csl.illinois.edu/people/c-k-gunsalus/), J.D., Director, [National Center for Professional & Research Ethics](https://ethicscenter.csl.illinois.edu), Professor Emerita of Business, and Research Professor at the [Coordinated Sciences Laboratory](http://csl.illinois.edu), University of Illinois at Urbana-Champaign

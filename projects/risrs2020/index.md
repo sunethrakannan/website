@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: risrs2020
 title: Reducing the Inadvertent Spread of Retracted Science
 permalink: /projects/risrs2020/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: risrs2020
-title: "ACTIVITIES:Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda"
+title: Activities
 permalink: /projects/risrs2020/activities
 ---
 The project team will host a workshop to bring together diverse stakeholders to develop a series of research-informed outcomes (scientific workshops, policies, and industry tools) to reduce the citation and reuse of retracted publications.S ignificant pre-workshop activities will be undertaken (including literature review, citation analysis, stakeholder interviews and the writing and dissemination of stakeholder statements) which will seed the workshop themesand promote dynamic discussions that lead to an actionable agenda. The specific activities of the participating experts will be:

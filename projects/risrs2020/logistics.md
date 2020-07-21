@@ -1,6 +1,6 @@
 ---
 layout: risrs2020
-title: "Logistics:Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda"
+title: Logistics
 permalink: /projects/risrs2020/logistics
 ---
 

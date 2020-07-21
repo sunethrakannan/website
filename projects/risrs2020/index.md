@@ -1,6 +1,6 @@
 ---
 layout: risrs2020
-title: Project Homepage
+title: "Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda"
 permalink: /projects/risrs2020/
 ---
 

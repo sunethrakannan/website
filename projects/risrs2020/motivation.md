@@ -1,5 +1,5 @@
 ---
-title: "Motivation:Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda"
+title: Motivation
 permalink: /projects/risrs2020/motivation
 layout: risrs2020
 ---

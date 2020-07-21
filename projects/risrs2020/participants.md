@@ -1,6 +1,6 @@
 ---
 layout: risrs2020
-title: "People:Reducing the Inadvertent Spread of Retracted Science: Shaping a Research and Implementation Agenda"
+title: Participants
 permalink: /projects/risrs2020/participants
 ---
 

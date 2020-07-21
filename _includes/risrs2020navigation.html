@@ -1,0 +1,36 @@
+{% if site.data.risrs2020navigation %}
+
+  <style>
+    ul.menustyle {
+      list-style-type: none;
+      overflow: hidden;
+    }
+
+    li.menustyle {
+      float: left;
+    }
+
+    li.menustyle a {
+      display: block;
+      text-align: center;
+      padding: 15px;
+      text-decoration: none;
+    }
+  </style>
+
+  <div class="navigation-wrapper" align="center">
+    <!--<a href="#menu-toggle" id="menu-toggle">{{ site.data.text[site.locale].menu_label | default: 'Menu' }}</a>-->
+    <nav id="primary-nav" class="site-nav animated drop">
+      <ul class="menustyle">
+        {%- for link in site.data.risrs2020navigation -%}
+          {%- if link.url contains '://' -%}
+            {%- assign url = link.url -%}
+          {%- else -%}
+            {%- assign url = link.url | relative_url -%}
+          {%- endif -%}
+          <li class="menustyle"><a href="{{ url }}">{{ link.title }}</a> </li>
+        {%- endfor -%}
+      </ul>
+    </nav>
+  </div><!-- /.navigation-wrapper -->
+{% endif %}

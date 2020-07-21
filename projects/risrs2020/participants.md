@@ -1,6 +1,6 @@
 ---
 layout: risrs2020
-title: Participants
+title: Workshop Participants
 permalink: /projects/risrs2020/participants
 ---
 

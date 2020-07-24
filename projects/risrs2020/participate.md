@@ -3,7 +3,7 @@ layout: risrs2020
 title: How to Participate
 permalink: /projects/risrs2020/participate
 ---
-The project team will host an online workshop to bring together diverse stakeholders to develop a series of research-informed outcomes (scientific workshops, policies, and industry tools) to reduce the citation and reuse of retracted publications. We’re setting the agenda for the workshop based on interviews with stakeholders in the scientific publishing ecosystem, short discussion pieces stakeholders share, an ongoing literature review of research about retraction, and an ongoing citation analysis of retracted papers. All these pre-workshop activities will seed the workshop themes and promote dynamic discussions that lead to an actionable agenda. 
+The project team will host an online workshop to bring together diverse stakeholders to develop a series of research-informed outcomes (scientific workshops, policies, and industry tools) to reduce the citation and reuse of retracted publications. We’re setting the workshop agenda based on interviews with stakeholders in the scientific publishing ecosystem, short discussion pieces stakeholders share, an ongoing literature review of research about retraction, and an ongoing citation analysis of retracted papers. All these pre-workshop activities will seed the workshop themes and promote dynamic discussions that lead to an actionable agenda. 
 
 We welcome stakeholders to contribute in any and all of the following ways:
 

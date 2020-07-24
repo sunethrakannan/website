@@ -10,7 +10,7 @@ We welcome stakeholders to contribute in any and all of the following ways:
 1. Be interviewed about your professional experience with the retraction process and your thoughts about how to address the circulation and citation of retracted science.
 2. Contribute a discussion paper prior to the workshop which will be shared on this website to help inform the agenda-setting activities.
 3. Attend a virtual workshop, a series of structured discussions on October 26, November 9, and November 16, 2020 (8AM to noon US Central time each day).
-4. Provide feedback after the workshop (e.g. workshop survey, feedback on a draft white paper, present about the project at other events, etc.)
+4. Provide feedback after the workshop (e.g. workshop survey, feedback on a draft white paper, present about the project at other events, etc.).
 
 Following the stakeholder workshop, PI Schneider will develop a consensus white paper with a coherent, actionable set of recommendations for next steps and disseminate the recommendations at select conferences. The goal is that these recommendations will lead to tangible plans for implementing next steps, in cooperation with industry partners within scientific publishing as well as government policymakers and academic institutions. 
 

@@ -3,7 +3,7 @@ layout: risrs2020
 title: Activities
 permalink: /projects/risrs2020/activities
 ---
-The project team will host a workshop to bring together diverse stakeholders to develop a series of research-informed outcomes (scientific workshops, policies, and industry tools) to reduce the citation and reuse of retracted publications. Significant pre-workshop activities will be undertaken (including literature review, citation analysis, stakeholder interviews and the writing and dissemination of stakeholder statements) which will seed the workshop themes and promote dynamic discussions that lead to an actionable agenda. 
+The project team will host an online workshop to bring together diverse stakeholders to develop a series of research-informed outcomes (scientific workshops, policies, and industry tools) to reduce the citation and reuse of retracted publications. Before the workshop the team is producing a literature review and citation analysis, interviewing stakeholders, and gathering discussion papers from stakeholders - these pre-workshop activities will seed the workshop themes and promote dynamic discussions that lead to an actionable agenda. 
 
 We welcome stakeholders to contribute in any and all of the following ways:
 

@@ -4,12 +4,12 @@ title: Logistics
 permalink: /projects/risrs2020/logistics
 ---
 
-We plan approximately twelve hours of structured online discussion broken into three 4-hour segments. 
+We plan approximately twelve hours of structured online discussion broken over three dates. 
 
-Dates and Times: 8AM to noon US Central time on three Mondays:
-1. October 26, 2020 ([timezone conversion](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RISRS2020+Meeting+%231&iso=20201026T08&p1=5158&ah=4))
-2. November 9, 2020 ([timezone conversion](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RISRS2020+Meeting+%232&iso=20201109T08&p1=5158&ah=4))
-3. November 16, 2020 ([timezone conversion](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RISRS2020+Meeting+%233&iso=20201116T08&p1=5158&ah=4))
+Dates and Times: on three Mondays:
+1. 8AM to noon US Central time, Monday October 26, 2020 ([timezone conversion](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RISRS2020+Meeting+%231&iso=20201026T08&p1=5158&ah=4))
+2.  8AM to noon US Central time, Monday November 9, 2020 ([timezone conversion](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RISRS2020+Meeting+%232&iso=20201109T08&p1=5158&ah=4))
+3.  8AM to noon US Central time, Monday November 16, 2020 ([timezone conversion](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RISRS2020+Meeting+%233&iso=20201116T08&p1=5158&ah=4))
 
 Timezones corresponding:
 - Pacific 6AM to 10AM

@@ -1,7 +1,7 @@
 ---
 layout: risrs2020
 title: Workshop Participants
-permalink: /projects/risrs2020/participants
+permalink: /projects/risrs2020/attendees
 ---
 * [Daniele Fanelli](http://danielefanelli.com), PhD, Fellow in Quantitative Methodology, [Department of Methodology](https://www.lse.ac.uk/methodology/), London School of Economics and Political Science
 * Annette Flanagin, RN, MA, FAAN, Executive Managing Editor and Vice President, Editorial Operations, [JAMA](https://jamanetwork.com/journals/jama) and [The JAMA Network](https://jamanetwork.com), and Executive Editor, [JAMAevidence](https://jamaevidence.mhmedical.com)

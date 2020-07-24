@@ -3,15 +3,17 @@ layout: risrs2020
 title: Activities
 permalink: /projects/risrs2020/activities
 ---
-The project team will host a workshop to bring together diverse stakeholders to develop a series of research-informed outcomes (scientific workshops, policies, and industry tools) to reduce the citation and reuse of retracted publications. Significant pre-workshop activities will be undertaken (including literature review, citation analysis, stakeholder interviews and the writing and dissemination of stakeholder statements) which will seed the workshop themesand promote dynamic discussions that lead to an actionable agenda. The specific activities of the participating experts will be:
+The project team will host a workshop to bring together diverse stakeholders to develop a series of research-informed outcomes (scientific workshops, policies, and industry tools) to reduce the citation and reuse of retracted publications. Significant pre-workshop activities will be undertaken (including literature review, citation analysis, stakeholder interviews and the writing and dissemination of stakeholder statements) which will seed the workshop themes and promote dynamic discussions that lead to an actionable agenda. 
 
-1. An interview to explore their professional experience with the retraction process and share their thoughts about how to address the circulation and citation of retracted science.
-2. Attendance at a virtual workshop which will be a series of structured discussions on October 26, November 9, and November 16 2020.
-3. The contribution of a discussion paper prior to the workshop which will be shared on this website to help inform the agenda setting activities.
-4. A post-workshop outcomes survey.
+We welcome stakeholders to contribute in any and all of the following ways:
+
+1. Be interviewed about your professional experience with the retraction process and your thoughts about how to address the circulation and citation of retracted science.
+2. Contribute a discussion paper prior to the workshop which will be shared on this website to help inform the agenda-setting activities.
+3. Attend a virtual workshop, a series of structured discussions on October 26, November 9, and November 16, 2020.
+4. Provide feedback after the workshop (e.g. workshop survey, feedback on a draft white paper, present about the project at other events, etc.)
 
 Following the stakeholder workshop, PI Schneider will develop a consensus white paper with a coherent, actionable set of recommendations for next steps and disseminate the recommendations at select conferences. The goal is that these recommendations will lead to tangible plans for implementing next steps, in cooperation with industry partners within scientific publishing as well as government policymakers and academic institutions. 
 
-For questions about the research study, please contact [Dr. Jodi Schneider](https://ischool.illinois.edu/people/jodi-schneider) at +1 (217) 300-4328 or jodi@illinois.edu
+For questions about the research study, or to express interest in participating, please contact [Dr. Jodi Schneider](https://ischool.illinois.edu/people/jodi-schneider) at +1 (217) 300-4328 or jodi@illinois.edu
 
 Any questions or concerns about your rights as a participant please contact the [University of Illinois at Urbana-Champaign Office for the Protection of Research Subjects](https://oprs.research.illinois.edu) at +1(217) 333-2670 or via email at irb@illinois.edu.

@@ -2,3 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 node_modules/*
+projects/.DS_Store
+projects/.DS_Store
+images/.DS_Store
+.DS_Store

@@ -14,7 +14,7 @@ Pieces might respond to the following questions, from your personal or professio
 
 Discussion pieces:
 * Elizabeth M. Suelzer, Jennifer Deal, & Karen L. Hanus: Challenges in Discovering the Retracted Status of an Article
-* Caitlin Bakker & Nicole Theis-Mahon: Location and Sentiment of Citations to Retracted Publications in Dental Research 
+* Caitlin Bakker & Nicole Theis-Mahon: [Location and Sentiment of Citations to Retracted Publications in Dental Research](https://www.ideals.illinois.edu/bitstream/handle/2142/108363/BakkerTheisMahon-SloanProject2020.pdf?sequence=2&isAllowed=y) 
 
 
 This will foster our discussion amongst diverse participants - from the publishing industry (editors, technical staff, etc.), infrastructure-related groups (e.g. aggregators, databases, publisher service organizations), research (across government, academia, industry), journalism/science writing, policy/funding, research integrity groups.

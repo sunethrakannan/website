@@ -13,7 +13,7 @@ Pieces might respond to the following questions, from your personal or professio
 3. What are the classes of retracted science? Can they be treated the same way?
 
 Discussion pieces:
-* Elizabeth M. Suelzer, Jennifer Deal, & Karen L. Hanus: Challenges in Discovering the Retracted Status of an Article
+* Elizabeth M. Suelzer, Jennifer Deal, & Karen L. Hanus: [Challenges in Discovering the Retracted Status of an Article] (https://www.ideals.illinois.edu/bitstream/handle/2142/108367/Thought%20piece-Challenges%20in%20discovering%20the%20retracted%20status%20of%20an%20article.pdf?sequence=2&isAllowed=y)
 * Caitlin Bakker & Nicole Theis-Mahon: [Location and Sentiment of Citations to Retracted Publications in Dental Research](https://www.ideals.illinois.edu/bitstream/handle/2142/108363/BakkerTheisMahon-SloanProject2020.pdf?sequence=2&isAllowed=y) 
 
 

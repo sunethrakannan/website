@@ -3,7 +3,7 @@ layout: risrs2020
 title: Workshop Attendee List
 permalink: /projects/risrs2020/attendees
 ---
-* IJsbrand Jan Aalbersberg, PhD, Chair of the Standards and Technology Executive Committee of STM; SVP Research Integrity, Elsevier
+* [IJsbrand Jan Aalbersberg](https://www.stm-assoc.org/people/ijsbrand-jan-aalbersberg/), PhD, Chair of the Standards and Technology Executive Committee of STM; SVP Research Integrity, Elsevier
 * Monya Baker, Senior Editor, Comment Desk, Nature magazine
 * Caitlin Bakker, Medical School Librarian and Research Services Coordinator, Health Sciences Library University of Minnesota
 * Elisabeth Bik, PhD, Microbiome and Science Integrity consultant

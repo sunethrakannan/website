@@ -20,7 +20,7 @@ permalink: /projects/risrs2020/attendees
 * Daniel T. Kulp, PhD, Director, Editorial Development for the journals of the American Chemical Society
 * Alice Meadows, Director of Community Engagement [NISO](https://www.niso.org/)
 * [David Moher](http://www.ohri.ca/profile/dmoher), PhD, Director, Centre of Journalology, Ottawa Hospital Research Institute; Associate Professor, School of Epidemiology and Public Health, University of Ottawa
-* Josh Nicholson, Co-founder and CEO [Scite](https://scite.ai/
+* Josh Nicholson, Co-founder and CEO [SCite](https://scite.ai/)
 * [Ivan Oransky](https://retractionwatch.com/meet-the-retraction-watch-staff/about/), MD. Co-Founder of [Retraction Watch](https://retractionwatch.com) & Vice President, Editorial at [Medscape](https://www.medscape.com), Distinguished Writer In Residence at New York University’s Carter Journalism Institute, and president of the [Association of Health Care Journalists](https://healthjournalism.org)
 * [Deborah Poff](https://publicationethics.org/about/council/deborah-poff-0), PhD, Editor-in-Chief, Journal of Academic Ethics; Chair, Trustee Board [COPE](https://publicationethics.org/)
 * [Eefke Smit](https://www.stm-assoc.org/people/eefke-smit/), Director of Standards and Technology, International Association of STM Publishers

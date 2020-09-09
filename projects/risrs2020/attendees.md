@@ -26,6 +26,6 @@ permalink: /projects/risrs2020/attendees
 * [Deborah Poff](https://publicationethics.org/about/council/deborah-poff-0), PhD, Editor-in-Chief, Journal of Academic Ethics; Chair, Trustee Board [COPE](https://publicationethics.org/)
 * [Eefke Smit](https://www.stm-assoc.org/people/eefke-smit/), Director of Standards and Technology, International Association of STM Publishers
 * [Elizabeth Suelzer](https://www.mcw.edu/departments/libraries/faculty/elizabeth-suelzer), User Education and Reference Librarian, Medical College of Wisconsin
-* [Sean Takats](https://www.c2dh.uni.lu/people/sean-takats),PhD, Professor/Chief Scientist, University of Luxembourg; Director of [Zotero](https://www.zotero.org/)
+* [Sean Takats](https://www.c2dh.uni.lu/people/sean-takats), PhD, Professor/Chief Scientist, University of Luxembourg; Director of [Zotero](https://www.zotero.org/)
 * [Nicole Theis-Mahon](https://www.lib.umn.edu/about/staff/nicole-theis-mahon), Liason Librarian & Health Sciences Collection Coordinator, Health Sciences Library, University of Minnesota
 * Randy Townsend, Director, [Journal Operations at American Geophysical Union](https://www.agu.org/Publish-with-AGU/Publish) 

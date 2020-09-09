@@ -5,7 +5,7 @@ permalink: /projects/risrs2020/attendees
 ---
 * [IJsbrand Jan Aalbersberg](https://www.stm-assoc.org/people/ijsbrand-jan-aalbersberg/), PhD, Chair of the Standards and Technology Executive Committee of STM; SVP Research Integrity, Elsevier
 * Monya Baker, Senior Editor, Comment Desk, Nature magazine
-* [Caitlin Bakker](https://hsl.lib.umn.edu/about/staff/caitlin-bakker), Medical School Librarian and Research Services Coordinator, Health Sciences Library University of Minnesota
+* [Caitlin Bakker](https://hsl.lib.umn.edu/about/staff/caitlin-bakker), Medical School Librarian and Research Services Coordinator, Health Sciences Library, University of Minnesota
 * Elisabeth Bik, PhD, Microbiome and Science Integrity consultant
 * [Daniele Fanelli](http://danielefanelli.com), PhD, Fellow in Quantitative Methodology, [Department of Methodology](https://www.lse.ac.uk/methodology/), London School of Economics and Political Science
 * Ashley Farley, Program Officer, Knowledge & Research Services, Bill & Melinda Gates Foundation
@@ -13,9 +13,9 @@ permalink: /projects/risrs2020/attendees
 * Annette Flanagin, RN, MA, FAAN, Executive Managing Editor and Vice President, Editorial Operations, [JAMA](https://jamanetwork.com/journals/jama) and [The JAMA Network](https://jamanetwork.com), and Executive Editor, [JAMAevidence](https://jamaevidence.mhmedical.com)
 * CAPT Stephen Gonsalves, PhD,  Division of Education and Integrity US Office of Research Integrity 
 * [Josh Greenberg](https://sloan.org/about/staff/joshua-m-greenberg), Program Director, [Alfred P. Sloan Foundation](https://sloan.org)
-* [Francesca Grifo](https://www.epa.gov/careers/profiles-women-epa-francesca-grifo), PhD, Scientific Integrity Official Environmental Protection Agency
+* [Francesca Grifo](https://www.epa.gov/careers/profiles-women-epa-francesca-grifo), PhD, Scientific Integrity Official, Environmental Protection Agency
 * [C.K. Gunsalus](https://ethicscenter.csl.illinois.edu/people/c-k-gunsalus/), J.D., Director, [National Center for Professional & Research Ethics](https://ethicscenter.csl.illinois.edu), Professor Emerita of Business, and Research Professor at the [Coordinated Sciences Laboratory](http://csl.illinois.edu), University of Illinois at Urbana-Champaign
-* Joerg Heber, PhD, Editorial Director, PLOS and Editor-in-Chief PLOS ONE
+* Joerg Heber, PhD, Editorial Director [PLOS](https://plos.org/) and Editor-in-Chief [PLOS ONE](https://journals.plos.org/plosone/)
 * [Kathryn Kaiser](https://scholars.uab.edu/display/kakaiser), PhD, Assistant Professor Dept of Health Behavior, University of Alabama Birmingham
 * Dan Kulp, PhD, Director, Editorial Development for the journals of the American Chemical Society
 * Alice Meadows, Director of Community Engagement NISO
@@ -27,4 +27,4 @@ permalink: /projects/risrs2020/attendees
 * [Elizabeth Suelzer](https://www.mcw.edu/departments/libraries/faculty/elizabeth-suelzer), User Education and Reference Librarian Medical College of Wisconsin
 * [Sean Takats](https://www.c2dh.uni.lu/people/sean-takats),PhD, Professor/Chief Scientist, University of Luxembourg; Director of [Zotero](https://www.zotero.org/)
 * [Nicole Theis-Mahon](https://www.lib.umn.edu/about/staff/nicole-theis-mahon), Liason Librarian & Health Sciences Collection Coordinator, Health Sciences Library University of Minnesota
-* Randy Townsend, Director, Journal Operations at American Geophysical Union 
+* Randy Townsend, Director, [Journal Operations at American Geophysical Union](https://www.agu.org/Publish-with-AGU/Publish) 

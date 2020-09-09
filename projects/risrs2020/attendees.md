@@ -11,7 +11,7 @@ permalink: /projects/risrs2020/attendees
 * Ashley Farley, Program Officer, Knowledge & Research Services, Bill & Melinda Gates Foundation
 * [Patricai Feeney](https://www.crossref.org/people/patricia-feeney/), Head of Metadata, Crossref 
 * Annette Flanagin, RN, MA, FAAN, Executive Managing Editor and Vice President, Editorial Operations, [JAMA](https://jamanetwork.com/journals/jama) and [The JAMA Network](https://jamanetwork.com), and Executive Editor, [JAMAevidence](https://jamaevidence.mhmedical.com)
-* CAPT Stephen Gonsalves, PhD  Division of Education and Integrity US Office of Research Integrity 
+* CAPT Stephen Gonsalves, PhD,  Division of Education and Integrity US Office of Research Integrity 
 * [Josh Greenberg](https://sloan.org/about/staff/joshua-m-greenberg), Program Director, [Alfred P. Sloan Foundation](https://sloan.org)
 * [Francesca Grifo](https://www.epa.gov/careers/profiles-women-epa-francesca-grifo), PhD, Scientific Integrity Official Environmental Protection Agency
 * [C.K. Gunsalus](https://ethicscenter.csl.illinois.edu/people/c-k-gunsalus/), J.D., Director, [National Center for Professional & Research Ethics](https://ethicscenter.csl.illinois.edu), Professor Emerita of Business, and Research Professor at the [Coordinated Sciences Laboratory](http://csl.illinois.edu), University of Illinois at Urbana-Champaign

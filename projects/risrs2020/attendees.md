@@ -22,6 +22,7 @@ permalink: /projects/risrs2020/attendees
 * [David Moher](http://www.ohri.ca/profile/dmoher), PhD, Director, Centre of Journalology, Ottawa Hospital Research Institute; Associate Professor, School of Epidemiology and Public Health, University of Ottawa
 * Josh Nicholson, Co-founder and CEO [SCite](https://scite.ai/)
 * [Ivan Oransky](https://retractionwatch.com/meet-the-retraction-watch-staff/about/), MD. Co-Founder of [Retraction Watch](https://retractionwatch.com) & Vice President, Editorial at [Medscape](https://www.medscape.com), Distinguished Writer In Residence at New York University’s Carter Journalism Institute, and president of the [Association of Health Care Journalists](https://healthjournalism.org)
+* Sarah Robbie, Head of Research Integrity and Rthics, Taylor and Francis
 * [Deborah Poff](https://publicationethics.org/about/council/deborah-poff-0), PhD, Editor-in-Chief, Journal of Academic Ethics; Chair, Trustee Board [COPE](https://publicationethics.org/)
 * [Eefke Smit](https://www.stm-assoc.org/people/eefke-smit/), Director of Standards and Technology, International Association of STM Publishers
 * [Elizabeth Suelzer](https://www.mcw.edu/departments/libraries/faculty/elizabeth-suelzer), User Education and Reference Librarian, Medical College of Wisconsin

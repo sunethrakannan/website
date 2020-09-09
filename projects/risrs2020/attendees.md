@@ -9,7 +9,7 @@ permalink: /projects/risrs2020/attendees
 * Elisabeth Bik, PhD, Microbiome and Science Integrity consultant
 * [Daniele Fanelli](http://danielefanelli.com), PhD, Fellow in Quantitative Methodology, [Department of Methodology](https://www.lse.ac.uk/methodology/), London School of Economics and Political Science
 * Ashley Farley, Program Officer, Knowledge & Research Services, Bill & Melinda Gates Foundation
-* [Patricai Feeney](https://www.crossref.org/people/patricia-feeney/), Head of Metadata, Crossref 
+* [Patricia Feeney](https://www.crossref.org/people/patricia-feeney/), Head of Metadata, Crossref 
 * Annette Flanagin, RN, MA, FAAN, Executive Managing Editor and Vice President, Editorial Operations, [JAMA](https://jamanetwork.com/journals/jama) and [The JAMA Network](https://jamanetwork.com), and Executive Editor, [JAMAevidence](https://jamaevidence.mhmedical.com)
 * CAPT Stephen Gonsalves, PhD, Division of Education and Integrity, US Office of Research Integrity 
 * [Josh Greenberg](https://sloan.org/about/staff/joshua-m-greenberg), Program Director, [Alfred P. Sloan Foundation](https://sloan.org)

@@ -15,7 +15,8 @@ Pieces might respond to the following questions, from your personal or professio
 Discussion pieces:
 * Elizabeth M. Suelzer, Jennifer Deal, & Karen L. Hanus: [Challenges in Discovering the Retracted Status of an Article](https://www.ideals.illinois.edu/bitstream/handle/2142/108367/Thought%20piece-Challenges%20in%20discovering%20the%20retracted%20status%20of%20an%20article.pdf?sequence=2&isAllowed=y)
 * Caitlin Bakker & Nicole Theis-Mahon: [Location and Sentiment of Citations to Retracted Publications in Dental Research](https://www.ideals.illinois.edu/bitstream/handle/2142/108363/BakkerTheisMahon-SloanProject2020.pdf?sequence=2&isAllowed=y) 
-* Monya Baker: How to stop the errors and retain the real: Researchers need transparency, better indexing, and a willingness to look again at the paper they intend to cite
+* Monya Baker: [How to stop the errors and retain the real: Researchers need transparency, better indexing, and a willingness to look again at the paper they intend to cite](https://www.ideals.illinois.edu/handle/2142/108371)
+
 
 
 This will foster our discussion amongst diverse participants - from the publishing industry (editors, technical staff, etc.), infrastructure-related groups (e.g. aggregators, databases, publisher service organizations), research (across government, academia, industry), journalism/science writing, policy/funding, research integrity groups.

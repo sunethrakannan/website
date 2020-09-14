@@ -4,8 +4,8 @@ title: Workshop Attendee List
 permalink: /projects/risrs2020/attendees
 ---
 * [IJsbrand Jan Aalbersberg](https://www.stm-assoc.org/people/ijsbrand-jan-aalbersberg/), PhD, Chair of the Standards and Technology Executive Committee of STM; SVP Research Integrity, Elsevier
-* Monya Baker, Senior Editor, Comment Desk, Nature magazine
-* [Caitlin Bakker](https://hsl.lib.umn.edu/about/staff/caitlin-bakker), Medical School Librarian and Research Services Coordinator, Health Sciences Library, University of Minnesota
+* Monya Baker, Ed.M., Senior Editor, Comment Desk, Nature magazine
+* [Caitlin Bakker](https://hsl.lib.umn.edu/about/staff/caitlin-bakker), MSLIS, Medical School Librarian and Research Services Coordinator, Health Sciences Library, University of Minnesota
 * Elisabeth Bik, PhD, Microbiome and Science Integrity consultant
 * [Daniele Fanelli](http://danielefanelli.com), PhD, Fellow in Quantitative Methodology, [Department of Methodology](https://www.lse.ac.uk/methodology/), London School of Economics and Political Science
 * Ashley Farley, MSLIS, Program Officer, Knowledge & Research Services, Bill & Melinda Gates Foundation

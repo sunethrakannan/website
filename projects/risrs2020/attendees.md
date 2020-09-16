@@ -7,6 +7,7 @@ permalink: /projects/risrs2020/attendees
 * Monya Baker, Ed.M., Senior Editor, Comment Desk, Nature magazine
 * [Caitlin Bakker](https://hsl.lib.umn.edu/about/staff/caitlin-bakker), MSLIS, Medical School Librarian and Research Services Coordinator, Health Sciences Library, University of Minnesota
 * Elisabeth Bik, PhD, Microbiome and Science Integrity consultant
+* Helena Cousijn, PhD, Community Engagement Director, [DataCite](https://datacite.org/)
 * [Daniele Fanelli](http://danielefanelli.com), PhD, Fellow in Quantitative Methodology, [Department of Methodology](https://www.lse.ac.uk/methodology/), London School of Economics and Political Science
 * Ashley Farley, MSLIS, Program Officer, Knowledge & Research Services, Bill & Melinda Gates Foundation
 * [Patricia Feeney](https://www.crossref.org/people/patricia-feeney/), MLIS, Head of Metadata, Crossref 
@@ -18,6 +19,7 @@ permalink: /projects/risrs2020/attendees
 * Joerg Heber, PhD, Editorial Director [PLOS](https://plos.org/) and Editor-in-Chief [PLOS ONE](https://journals.plos.org/plosone/)
 * [Kathryn Kaiser](https://scholars.uab.edu/display/kakaiser), PhD, Assistant Professor, Dept of Health Behavior, University of Alabama Birmingham
 * Daniel T. Kulp, PhD, Director, Editorial Development for the journals of the American Chemical Society
+* Christopher Lehmann, PhD, Research Integrity Officer, University of Illinois, Urbana-Champaign
 * Alice Meadows, Director of Community Engagement [NISO](https://www.niso.org/)
 * [David Moher](http://www.ohri.ca/profile/dmoher), PhD, Director, Centre of Journalology, Ottawa Hospital Research Institute; Associate Professor, School of Epidemiology and Public Health, University of Ottawa
 * Josh Nicholson, PhD, Co-founder and CEO [scite](https://scite.ai/)

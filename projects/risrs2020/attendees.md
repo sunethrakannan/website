@@ -30,7 +30,7 @@ permalink: /projects/risrs2020/attendees
 * Katrina Pickersgill, Executive Peer Review Manager, SAGE Publicaions, Ltd.
 * Sarah Robbie, Head of Research Integrity and Ethics, Taylor and Francis
 * [Deborah Poff](https://publicationethics.org/about/council/deborah-poff-0), PhD, Editor-in-Chief, Journal of Academic Ethics; Chair, Trustee Board [COPE](https://publicationethics.org/)
-* John Seguin, President & Chief Librarian, [Third Iron LLC](https://thirdiron.com/
+* John Seguin, President & Chief Librarian, [Third Iron LLC](https://thirdiron.com/)
 * [Eefke Smit](https://www.stm-assoc.org/people/eefke-smit/), MA, Director of Standards and Technology, International Association of STM Publishers
 * [Elizabeth Suelzer](https://www.mcw.edu/departments/libraries/faculty/elizabeth-suelzer), MSLIS, User Education and Reference Librarian, Medical College of Wisconsin
 * [Sean Takats](https://www.c2dh.uni.lu/people/sean-takats), PhD, Professor/Chief Scientist, University of Luxembourg; Director of [Zotero](https://www.zotero.org/)

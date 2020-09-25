@@ -9,7 +9,7 @@ permalink: /projects/risrs2020/attendees
 * Lisa Bero, PhD, Research Professor, University of Colorado Anschutz Medical Campus
 * Elisabeth Bik, PhD, Microbiome and Science Integrity consultant
 * Helena Cousijn, PhD, Community Engagement Director, [DataCite](https://datacite.org/)
-* [Nicholas De Vito](https://www.phc.ox.ac.uk/team/nicholas-devito), Doctoral Researcher, EBM DataLab, Univeristy of Oxford
+* [Nicholas De Vito](https://www.phc.ox.ac.uk/team/nicholas-devito), Doctoral Researcher, EBM DataLab, University of Oxford
 * [Daniele Fanelli](http://danielefanelli.com), PhD, Fellow in Quantitative Methodology, [Department of Methodology](https://www.lse.ac.uk/methodology/), London School of Economics and Political Science
 * Ashley Farley, MSLIS, Program Officer, Knowledge & Research Services, Bill & Melinda Gates Foundation
 * [Patricia Feeney](https://www.crossref.org/people/patricia-feeney/), MLIS, Head of Metadata, Crossref 

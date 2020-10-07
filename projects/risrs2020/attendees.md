@@ -21,6 +21,7 @@ permalink: /projects/risrs2020/attendees
 * [C.K. Gunsalus](https://ethicscenter.csl.illinois.edu/people/c-k-gunsalus/), J.D., Director, [National Center for Professional & Research Ethics](https://ethicscenter.csl.illinois.edu), Professor Emerita of Business, and Research Professor at the [Coordinated Sciences Laboratory](http://csl.illinois.edu), University of Illinois at Urbana-Champaign
 * Joerg Heber, PhD, Editorial Director [PLOS](https://plos.org/) and Editor-in-Chief [PLOS ONE](https://journals.plos.org/plosone/)
 * [Kathryn Kaiser](https://scholars.uab.edu/display/kakaiser), PhD, Assistant Professor, Dept of Health Behavior, University of Alabama Birmingham
+* Solmaz Filiz Karabag, PhD, Associate Professor, Dept of Management & Engineering, Project, Innovation and Entrepreneurship, Linköpings Universitet
 * Daniel T. Kulp, PhD, Director, Editorial Development for the journals of the American Chemical Society
 * Christopher Lehmann, PhD, Research Integrity Officer, University of Illinois, Urbana-Champaign
 * Aaron Manko, PhD, Director, Research Integrity and Administrative Investigations, National Science Foundation - Office of Inspector General
@@ -30,6 +31,7 @@ permalink: /projects/risrs2020/attendees
 * [Ivan Oransky](https://retractionwatch.com/meet-the-retraction-watch-staff/about/), MD. Co-Founder of [Retraction Watch](https://retractionwatch.com) & Vice President, Editorial at [Medscape](https://www.medscape.com), Distinguished Writer In Residence at New York University’s Carter Journalism Institute, and president of the [Association of Health Care Journalists](https://healthjournalism.org)
 * Katrina Pickersgill, Executive Peer Review Manager, SAGE Publications, Ltd.
 * Sarah Robbie, Head of Research Integrity and Ethics, Taylor and Francis
+* Bruce D. Rosenblum,Vice President of Content & Workflow Solutions, [Inera Inc](https://www.inera.com/team/) 
 * [Deborah Poff](https://publicationethics.org/about/council/deborah-poff-0), PhD, Editor-in-Chief, Journal of Academic Ethics; Chair, Trustee Board [COPE](https://publicationethics.org/)
 * John Seguin, President & Chief Librarian, [Third Iron LLC](https://thirdiron.com/)
 * [Eefke Smit](https://www.stm-assoc.org/people/eefke-smit/), MA, Director of Standards and Technology, International Association of STM Publishers

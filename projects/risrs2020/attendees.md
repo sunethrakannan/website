@@ -31,7 +31,7 @@ permalink: /projects/risrs2020/attendees
 * [Ivan Oransky](https://retractionwatch.com/meet-the-retraction-watch-staff/about/), MD. Co-Founder of [Retraction Watch](https://retractionwatch.com) & Vice President, Editorial at [Medscape](https://www.medscape.com), Distinguished Writer In Residence at New York University’s Carter Journalism Institute, and president of the [Association of Health Care Journalists](https://healthjournalism.org)
 * Katrina Pickersgill, Executive Peer Review Manager, SAGE Publications, Ltd.
 * Sarah Robbie, Head of Research Integrity and Ethics, Taylor and Francis
-* Bruce D. Rosenblum,Vice President of Content & Workflow Solutions, [Inera Inc](https://www.inera.com/team/) 
+* Bruce D. Rosenblum, Vice President of Content & Workflow Solutions, [Inera Inc](https://www.inera.com/team/) 
 * [Deborah Poff](https://publicationethics.org/about/council/deborah-poff-0), PhD, Editor-in-Chief, Journal of Academic Ethics; Chair, Trustee Board [COPE](https://publicationethics.org/)
 * John Seguin, President & Chief Librarian, [Third Iron LLC](https://thirdiron.com/)
 * [Eefke Smit](https://www.stm-assoc.org/people/eefke-smit/), MA, Director of Standards and Technology, International Association of STM Publishers

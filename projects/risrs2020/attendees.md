@@ -11,7 +11,7 @@ permalink: /projects/risrs2020/attendees
 * Elisabeth Bik, PhD, Microbiome and Science Integrity consultant
 * Geoff Bilder, Director of Technology and Research, Crossref
 * Helena Cousijn, PhD, Community Engagement Director, [DataCite](https://datacite.org/)
-* Jennifer Deal, Librarian Lead and Institutional Repository Manager, Advocate Aurora Library
+* Jennifer Deal, MA, MLIS, Librarian Lead and Institutional Repository Manager, Advocate Aurora Library
 * [Nicholas De Vito](https://www.phc.ox.ac.uk/team/nicholas-devito), Doctoral Researcher, EBM DataLab, University of Oxford
 * [Daniele Fanelli](http://danielefanelli.com), PhD, Fellow in Quantitative Methodology, [Department of Methodology](https://www.lse.ac.uk/methodology/), London School of Economics and Political Science
 * Ashley Farley, MSLIS, Program Officer, Knowledge & Research Services, Bill & Melinda Gates Foundation
@@ -21,7 +21,7 @@ permalink: /projects/risrs2020/attendees
 * [Josh Greenberg](https://sloan.org/about/staff/joshua-m-greenberg), PhD, Program Director, [Alfred P. Sloan Foundation](https://sloan.org)
 * [Francesca Grifo](https://www.epa.gov/careers/profiles-women-epa-francesca-grifo), PhD, Scientific Integrity Official, Environmental Protection Agency
 * [C.K. Gunsalus](https://ethicscenter.csl.illinois.edu/people/c-k-gunsalus/), J.D., Director, [National Center for Professional & Research Ethics](https://ethicscenter.csl.illinois.edu), Professor Emerita of Business, and Research Professor at the [Coordinated Sciences Laboratory](http://csl.illinois.edu), University of Illinois at Urbana-Champaign
-* Karen Hanus, Director, Advocate Aurora Library
+* Karen Hanus, MLIS, AHIP, Director, Advocate Aurora Library
 * Joerg Heber, PhD, Editorial Director [PLOS](https://plos.org/) and Editor-in-Chief [PLOS ONE](https://journals.plos.org/plosone/)
 * Hannah Heckner, Product Strategist, [Silverchair](https://www.silverchair.com/)
 * [Kathryn Kaiser](https://scholars.uab.edu/display/kakaiser), PhD, Assistant Professor, Dept of Health Behavior, University of Alabama Birmingham
@@ -39,10 +39,10 @@ permalink: /projects/risrs2020/attendees
 * [Deborah Poff](https://publicationethics.org/about/council/deborah-poff-0), PhD, Editor-in-Chief, Journal of Academic Ethics; Chair, Trustee Board [COPE](https://publicationethics.org/)
 * Sarah Robbie, Head of Research Integrity and Ethics, Taylor and Francis
 * Bruce D. Rosenblum, Vice President of Content & Workflow Solutions, [Inera Inc](https://www.inera.com/team/) 
-* Barbara Ruggeri, Life and Health Sciences Librarian, Carroll University
+* Barbara Ruggeri, MLIS, AHIP, Life and Health Sciences Librarian, Carroll University
 * John Seguin, President & Chief Librarian, [Third Iron LLC](https://thirdiron.com/)
 * [Eefke Smit](https://www.stm-assoc.org/people/eefke-smit/), MA, Director of Standards and Technology, International Association of STM Publishers
 * [Elizabeth Suelzer](https://www.mcw.edu/departments/libraries/faculty/elizabeth-suelzer), MSLIS, User Education and Reference Librarian, Medical College of Wisconsin
 * [Sean Takats](https://www.c2dh.uni.lu/people/sean-takats), PhD, Professor/Chief Scientist, University of Luxembourg; Director of [Zotero](https://www.zotero.org/)
-* [Nicole Theis-Mahon](https://www.lib.umn.edu/about/staff/nicole-theis-mahon), MSLIS, Liason Librarian & Health Sciences Collection Coordinator, Health Sciences Library, University of Minnesota
+* [Nicole Theis-Mahon](https://www.lib.umn.edu/about/staff/nicole-theis-mahon), MSLIS, AHIP, Liason Librarian & Health Sciences Collection Coordinator, Health Sciences Library, University of Minnesota
 * Randy Townsend, MA, Director, [Journal Operations at American Geophysical Union](https://www.agu.org/Publish-with-AGU/Publish) 

@@ -9,6 +9,7 @@ permalink: /projects/risrs2020/attendees
 * [Caitlin Bakker](https://hsl.lib.umn.edu/about/staff/caitlin-bakker), MSLIS, Medical School Librarian and Research Services Coordinator, Health Sciences Library, University of Minnesota
 * Lisa Bero, PhD, Research Professor, University of Colorado Anschutz Medical Campus
 * Elisabeth Bik, PhD, Microbiome and Science Integrity consultant
+* Geoff Bilder, Director of Technology and Research, Crossref
 * Helena Cousijn, PhD, Community Engagement Director, [DataCite](https://datacite.org/)
 * Jennifer Deal, Librarian Lead and Institutional Repository Manager, Advocate Aurora Library
 * [Nicholas De Vito](https://www.phc.ox.ac.uk/team/nicholas-devito), Doctoral Researcher, EBM DataLab, University of Oxford
@@ -22,15 +23,18 @@ permalink: /projects/risrs2020/attendees
 * [C.K. Gunsalus](https://ethicscenter.csl.illinois.edu/people/c-k-gunsalus/), J.D., Director, [National Center for Professional & Research Ethics](https://ethicscenter.csl.illinois.edu), Professor Emerita of Business, and Research Professor at the [Coordinated Sciences Laboratory](http://csl.illinois.edu), University of Illinois at Urbana-Champaign
 * Karen Hanus, Director, Advocate Aurora Library
 * Joerg Heber, PhD, Editorial Director [PLOS](https://plos.org/) and Editor-in-Chief [PLOS ONE](https://journals.plos.org/plosone/)
+* Hannah Heckner, Product Strategist, [Silverchair](https://www.silverchair.com/)
 * [Kathryn Kaiser](https://scholars.uab.edu/display/kakaiser), PhD, Assistant Professor, Dept of Health Behavior, University of Alabama Birmingham
 * Solmaz Filiz Karabag, PhD, Associate Professor, Dept of Management & Engineering, Project, Innovation and Entrepreneurship, Linköpings Universitet
 * Daniel T. Kulp, PhD, Director, Editorial Development for the journals of the American Chemical Society
 * Christopher Lehmann, PhD, Research Integrity Officer, University of Illinois, Urbana-Champaign
-* Aaron Manko, PhD, Director, Research Integrity and Administrative Investigations, National Science Foundation - Office of Inspector General
+* Aaron Manka, PhD, Director, Research Integrity and Administrative Investigations, National Science Foundation - Office of Inspector General
+* Michael Markie, Publishing Director, Life Sciences, [F1000](http://f1000.com/)
 * Alice Meadows, Director of Community Engagement [NISO](https://www.niso.org/)
 * [David Moher](http://www.ohri.ca/profile/dmoher), PhD, Director, Centre of Journalology, Ottawa Hospital Research Institute; Associate Professor, School of Epidemiology and Public Health, University of Ottawa
 * Josh Nicholson, PhD, Co-founder and CEO [scite](https://scite.ai/)
 * [Ivan Oransky](https://retractionwatch.com/meet-the-retraction-watch-staff/about/), MD. Co-Founder of [Retraction Watch](https://retractionwatch.com) & Vice President, Editorial at [Medscape](https://www.medscape.com), Distinguished Writer In Residence at New York University’s Carter Journalism Institute, and president of the [Association of Health Care Journalists](https://healthjournalism.org)
+* Laura Paglione, Project Lead, Metadata2020
 * Katrina Pickersgill, Executive Peer Review Manager, SAGE Publications, Ltd.
 * [Deborah Poff](https://publicationethics.org/about/council/deborah-poff-0), PhD, Editor-in-Chief, Journal of Academic Ethics; Chair, Trustee Board [COPE](https://publicationethics.org/)
 * Sarah Robbie, Head of Research Integrity and Ethics, Taylor and Francis

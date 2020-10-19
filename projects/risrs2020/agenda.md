@@ -1,4 +1,9 @@
- 
+---
+layout: risrs2020
+title: Workshop Attendee List
+permalink: /projects/risrs2020/agenda
+--- 
+
 ## Monday Oct 26th
 
 ## DAY 1 Listening and Learning

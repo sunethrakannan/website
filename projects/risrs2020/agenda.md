@@ -44,6 +44,7 @@ People whose work supports interlinking and interconnection of scholarly publish
 #### **GROUP 4 - RESEARCH INTEGRITY**
 
 7:45-8:05 AM (PT) | 8:45-9:05 AM (MT) | 9:45-10:05 AM (CT) | 10:45-11:05 AM (ET) | 2:45-3:05 PM (UK) | 3:45-4:05 PM (CEST)
+
 People in a research integrity office in government or a university, supporting research integrity efforts/investigations in publishing.
 
 #### **GROUP 5 - RESEARCHERS & LIBRARIANS**

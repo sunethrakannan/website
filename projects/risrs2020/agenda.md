@@ -16,6 +16,7 @@ permalink: /projects/risrs2020/agenda
 ### **Stakeholder Experience Fishbowl Storytelling (20 min per group)**
 
 Structure:  5 min round robin, 10 min discussion, 5 min Q&A from audience
+
 Based on your experience or expertise, what do you want others to know about retractions? What problems are associated with retraction in your community? Can these problems be solved? How?
 
 #### **GROUP 1 - NORMS, STANDARDS, AND INCENTIVES**

@@ -1,6 +1,6 @@
 ---
 layout: risrs2020
-title: Workshop Attendee List
+title: Agenda
 permalink: /projects/risrs2020/agenda
 --- 
 

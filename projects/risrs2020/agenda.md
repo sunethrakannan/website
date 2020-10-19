@@ -65,7 +65,7 @@ Group discussion in 4 rounds:
 * Second round: each person shares thoughts after having listened to everybody in the room. 5 min
 * Third round: open discussion 25 min
 * Fourth round: each member shares takeaways. 10 min.
-Group members record takeaways, thoughts, and ideas in shared Google Slides. 5 min.
+* Group members record takeaways, thoughts, and ideas in shared Google Slides. 5 min.
 
 Participants will self-select a breakout room:
 

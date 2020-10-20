@@ -5,11 +5,13 @@ permalink: /projects/risrs2020/attendees
 ---
 * [IJsbrand Jan Aalbersberg](https://www.stm-assoc.org/people/ijsbrand-jan-aalbersberg/), PhD, Chair of the Standards and Technology Executive Committee of STM; SVP Research Integrity, Elsevier
 * Elsa Alvaro, PhD, Director of Academic Engagement, Librarian for Chemistry, and Chemical and Biological Engineering, Nothwestern University Libraries
+* Michele Avissar-Whiting, PhD, Editor in Chief, [Research Square](https://www.researchsquare.com/)
 * Monya Baker, Ed.M., Senior Editor, Comment Desk, Nature magazine
 * [Caitlin Bakker](https://hsl.lib.umn.edu/about/staff/caitlin-bakker), MSLIS, Medical School Librarian and Research Services Coordinator, Health Sciences Library, University of Minnesota
 * Lisa Bero, PhD, Research Professor, University of Colorado Anschutz Medical Campus
 * Elisabeth Bik, PhD, Microbiome and Science Integrity consultant
 * Geoff Bilder, Director of Technology and Research, Crossref
+* Stephanie Boughton, Research Integrity Editor, [Cochrane](https://www.cochrane.org/)
 * Helena Cousijn, PhD, Community Engagement Director, [DataCite](https://datacite.org/)
 * Jennifer Deal, MA, MLIS, Librarian Lead and Institutional Repository Manager, Advocate Aurora Library
 * [Nicholas De Vito](https://www.phc.ox.ac.uk/team/nicholas-devito), Doctoral Researcher, EBM DataLab, University of Oxford
@@ -24,6 +26,7 @@ permalink: /projects/risrs2020/attendees
 * Karen Hanus, MLIS, AHIP, Director, Advocate Aurora Library
 * Joerg Heber, PhD, Editorial Director [PLOS](https://plos.org/) and Editor-in-Chief [PLOS ONE](https://journals.plos.org/plosone/)
 * Hannah Heckner, Product Strategist, [Silverchair](https://www.silverchair.com/)
+* Tom Heyman, PhD, Assistant Professor, Social and Behavioural Sciences, Leiden University
 * [Kathryn Kaiser](https://scholars.uab.edu/display/kakaiser), PhD, Assistant Professor, Dept of Health Behavior, University of Alabama Birmingham
 * Solmaz Filiz Karabag, PhD, Associate Professor, Dept of Management & Engineering, Project, Innovation and Entrepreneurship, Linköpings Universitet
 * Daniel T. Kulp, PhD, Director, Editorial Development for the journals of the American Chemical Society
@@ -37,7 +40,9 @@ permalink: /projects/risrs2020/attendees
 * Laura Paglione, Project Lead, Metadata2020
 * Katrina Pickersgill, Executive Peer Review Manager, SAGE Publications, Ltd.
 * [Deborah Poff](https://publicationethics.org/about/council/deborah-poff-0), PhD, Editor-in-Chief, Journal of Academic Ethics; Chair, Trustee Board [COPE](https://publicationethics.org/)
+* Jessica Polka, PhD, Executive Director, [ASAPbio](https://asapbio.org/)
 * Sarah Robbie, Head of Research Integrity and Ethics, Taylor and Francis
+* Pamela Ronald, PhD, Distinquished Professor, Department of Plant Pathology, University of California, Davis
 * Bruce D. Rosenblum, Vice President of Content & Workflow Solutions, [Inera Inc](https://www.inera.com/team/) 
 * Barbara Ruggeri, MLIS, AHIP, Life and Health Sciences Librarian, Carroll University
 * John Seguin, President & Chief Librarian, [Third Iron LLC](https://thirdiron.com/)

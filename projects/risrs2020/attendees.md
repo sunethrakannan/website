@@ -28,12 +28,11 @@ permalink: /projects/risrs2020/attendees
 * Hannah Heckner, Product Strategist, [Silverchair](https://www.silverchair.com/)
 * Tom Heyman, PhD, Assistant Professor, Social and Behavioural Sciences, Leiden University
 * [Kathryn Kaiser](https://scholars.uab.edu/display/kakaiser), PhD, Assistant Professor, Dept of Health Behavior, University of Alabama Birmingham
-* Solmaz Filiz Karabag, PhD, Associate Professor, Dept of Management & Engineering, Project, Innovation and Entrepreneurship, Linköpings Universitet
 * Daniel T. Kulp, PhD, Director, Editorial Development for the journals of the American Chemical Society
 * Christopher Lehmann, PhD, Research Integrity Officer, University of Illinois, Urbana-Champaign
 * Aaron Manka, PhD, Director, Research Integrity and Administrative Investigations, National Science Foundation - Office of Inspector General
 * Michael Markie, Publishing Director, Life Sciences, [F1000](http://f1000.com/)
-Kathrin McConnell, Director, FDA Library, Office of Information Management and Technology
+* Kathrin McConnell, Director, FDA Library, Office of Information Management and Technology
 * Alice Meadows, Director of Community Engagement [NISO](https://www.niso.org/)
 * [David Moher](http://www.ohri.ca/profile/dmoher), PhD, Director, Centre of Journalology, Ottawa Hospital Research Institute; Associate Professor, School of Epidemiology and Public Health, University of Ottawa
 * Josh Nicholson, PhD, Co-founder and CEO [scite](https://scite.ai/)

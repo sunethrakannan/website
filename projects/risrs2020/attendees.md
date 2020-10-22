@@ -30,6 +30,7 @@ permalink: /projects/risrs2020/attendees
 * [Kathryn Kaiser](https://scholars.uab.edu/display/kakaiser), PhD, Assistant Professor, Dept of Health Behavior, University of Alabama Birmingham
 * Daniel T. Kulp, PhD, Director, Editorial Development for the journals of the American Chemical Society
 * Christopher Lehmann, PhD, Research Integrity Officer, University of Illinois, Urbana-Champaign
+* James Leung, PhD, Product Director, [Clarivate](https://clarivate.com/)
 * Aaron Manka, PhD, Director, Research Integrity and Administrative Investigations, National Science Foundation - Office of Inspector General
 * Michael Markie, Publishing Director, Life Sciences, [F1000](http://f1000.com/)
 * Kathrin McConnell, Director, FDA Library, Office of Information Management and Technology

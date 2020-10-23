@@ -15,8 +15,8 @@ This project will bring together diverse stakeholders in the academic publishing
 * [Tzu-Kun 'Esther' Hsiao](https://ischool.illinois.edu/people/tzu-kun-hsiao) leads the citation analysis.
 * Randi Proescholdt leads the search update process for the literature review and has analyzed retraction data quality in several databases.
 * Yoss Arianlou (undergraduate researcher) contributes to the literature review and is helping at the workshop.
-* Vivien Yip contributes to the literature review.
-* Librarian [Halle Burns](https://guides.library.unlv.edu/prf.php?account_id=223815) is helping at the workshop.
+* Vivien Yip (undergraduate researcher) contributes to the literature review.
+* [Halle Burns](https://guides.library.unlv.edu/prf.php?account_id=223815) is helping at the workshop.
 
 **Advisory Board**
 * [Daniele Fanelli](http://danielefanelli.com), PhD, Fellow in Quantitative Methodology, [Department of Methodology](https://www.lse.ac.uk/methodology/), London School of Economics and Political Science

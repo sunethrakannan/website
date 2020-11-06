@@ -8,7 +8,7 @@ permalink: /projects/risrs2020/attendees
 * Michele Avissar-Whiting, PhD, Editor in Chief, [Research Square](https://www.researchsquare.com/)
 * Monya Baker, Ed.M., Senior Editor, Comment Desk, Nature magazine
 * [Caitlin Bakker](https://hsl.lib.umn.edu/about/staff/caitlin-bakker), MSLIS, Medical School Librarian and Research Services Coordinator, Health Sciences Library, University of Minnesota
-* Lisa Bero, PhD, Research Professor, University of Colorado Anschutz Medical Campus
+* Lisa Bero, PhD, Chief Scientist, Center for Bioethics and Humanities; Professor of Medicine and Public Health, University of Colorado Anschutz Medical Campus
 * Elisabeth Bik, PhD, Microbiome and Science Integrity consultant
 * Geoff Bilder, Director of Technology and Research, Crossref
 * Stephanie Boughton, Research Integrity Editor, [Cochrane](https://www.cochrane.org/)
@@ -33,6 +33,7 @@ permalink: /projects/risrs2020/attendees
 * Stacey Lavelle, Senior Business Analyst, [Aries Systems Corporation](https://www.ariessys.com/)
 * Christopher Lehmann, PhD, Research Integrity Officer, University of Illinois, Urbana-Champaign
 * James Leung, PhD, Product Director, [Clarivate](https://clarivate.com/)
+* Dmitry Malkov, master's student, Science Policy Research Unit, University of Sussex
 * Aaron Manka, PhD, Director, Research Integrity and Administrative Investigations, National Science Foundation - Office of Inspector General
 * Michael Markie, Publishing Director, Life Sciences, [F1000](http://f1000.com/)
 * Kathrin McConnell, Director, FDA Library, Office of Information Management and Technology

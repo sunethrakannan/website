@@ -13,13 +13,13 @@ permalink: /projects/risrs2020/attendees
 * Geoff Bilder, Director of Technology and Research, Crossref
 * Stephanie Boughton, Research Integrity Editor, [Cochrane](https://www.cochrane.org/)
 * Helena Cousijn, PhD, Community Engagement Director, [DataCite](https://datacite.org/)
-* Josh Dahl, Product Leader, Clarivate Analytics
 * Jennifer Deal, MA, MLIS, Librarian Lead and Institutional Repository Manager, Advocate Aurora Library
 * [Nicholas De Vito](https://www.phc.ox.ac.uk/team/nicholas-devito), Doctoral Researcher, EBM DataLab, University of Oxford
 * [Daniele Fanelli](http://danielefanelli.com), PhD, Fellow in Quantitative Methodology, [Department of Methodology](https://www.lse.ac.uk/methodology/), London School of Economics and Political Science
 * Ashley Farley, MSLIS, Program Officer, Knowledge & Research Services, Bill & Melinda Gates Foundation
 * [Patricia Feeney](https://www.crossref.org/people/patricia-feeney/), MLIS, Head of Metadata, Crossref 
 * Annette Flanagin, RN, MA, FAAN, Executive Managing Editor and Vice President, Editorial Operations, [JAMA](https://jamanetwork.com/journals/jama) and [The JAMA Network](https://jamanetwork.com), and Executive Editor, [JAMAevidence](https://jamaevidence.mhmedical.com)
+* Kathryn Funk, MSLIS, Program Manager, PubMed Central
 * CAPT Stephen Gonsalves, PhD, Division of Education and Integrity, US Office of Research Integrity 
 * [Josh Greenberg](https://sloan.org/about/staff/joshua-m-greenberg), PhD, Program Director, [Alfred P. Sloan Foundation](https://sloan.org)
 * [Francesca Grifo](https://www.epa.gov/careers/profiles-women-epa-francesca-grifo), PhD, Scientific Integrity Official, Environmental Protection Agency
@@ -49,7 +49,6 @@ permalink: /projects/risrs2020/attendees
 * Pamela Ronald, PhD, Distinquished Professor, Department of Plant Pathology, University of California, Davis
 * Bruce D. Rosenblum, Vice President of Content & Workflow Solutions, [Inera Inc](https://www.inera.com/team/) 
 * Barbara Ruggeri, MLIS, AHIP, Life and Health Sciences Librarian, Carroll University
-* Don Sechler, MLS, Product Development Manager, Clarivate Analytics
 * John Seguin, President & Chief Librarian, [Third Iron LLC](https://thirdiron.com/)
 * [Eefke Smit](https://www.stm-assoc.org/people/eefke-smit/), MA, Director of Standards and Technology, International Association of STM Publishers
 * [Elizabeth Suelzer](https://www.mcw.edu/departments/libraries/faculty/elizabeth-suelzer), MSLIS, User Education and Reference Librarian, Medical College of Wisconsin

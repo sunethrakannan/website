@@ -5,7 +5,7 @@ permalink: /projects/risrs2020/attendees
 ---
 * [IJsbrand Jan Aalbersberg](https://www.stm-assoc.org/people/ijsbrand-jan-aalbersberg/), PhD, Chair of the Standards and Technology Executive Committee of STM; SVP Research Integrity, Elsevier
 * Elsa Alvaro, PhD, Director of Academic Engagement, Librarian for Chemistry, and Chemical and Biological Engineering, Nothwestern University Libraries
-* Michele Avissar-Whiting, PhD, Editor in Chief, [Research Square](https://www.researchsquare.com/)
+* Michele Avissar-Whiting, PhD, Editor-in-Chief, [Research Square](https://www.researchsquare.com/)
 * Monya Baker, Ed.M., Senior Editor, Comment Desk, Nature magazine
 * [Caitlin Bakker](https://hsl.lib.umn.edu/about/staff/caitlin-bakker), MSLIS, Medical School Librarian and Research Services Coordinator, Health Sciences Library, University of Minnesota
 * Joanne Berger, Lead Librarian, U.S. Food and Drug Administration

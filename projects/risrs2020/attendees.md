@@ -30,7 +30,7 @@ permalink: /projects/risrs2020/attendees
 * Hannah Heckner, Product Strategist, [Silverchair](https://www.silverchair.com/)
 * Tom Heyman, PhD, Assistant Professor, Social and Behavioural Sciences, Leiden University
 * [Kathryn Kaiser](https://scholars.uab.edu/display/kakaiser), PhD, Assistant Professor, Dept of Health Behavior, University of Alabama Birmingham
-* Daniel T. Kulp, PhD, Director, Editorial Development for the journals of the American Chemical Society
+* Daniel T. Kulp, PhD, Director, Editorial Development for the journals of the American Chemical Society & COPE Vice-Chair
 * Stacey Lavelle, Senior Business Analyst, [Aries Systems Corporation](https://www.ariessys.com/)
 * Christopher Lehmann, PhD, Research Integrity Officer, University of Illinois, Urbana-Champaign
 * James Leung, PhD, Product Director, [Clarivate](https://clarivate.com/)

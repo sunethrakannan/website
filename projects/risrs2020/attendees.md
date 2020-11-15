@@ -8,6 +8,7 @@ permalink: /projects/risrs2020/attendees
 * Michele Avissar-Whiting, PhD, Editor in Chief, [Research Square](https://www.researchsquare.com/)
 * Monya Baker, Ed.M., Senior Editor, Comment Desk, Nature magazine
 * [Caitlin Bakker](https://hsl.lib.umn.edu/about/staff/caitlin-bakker), MSLIS, Medical School Librarian and Research Services Coordinator, Health Sciences Library, University of Minnesota
+* Joanne Berger, Lead Librarian, U.S. Food and Drug Administration
 * Lisa Bero, PhD, Chief Scientist, Center for Bioethics and Humanities; Professor of Medicine and Public Health, University of Colorado Anschutz Medical Campus
 * Elisabeth Bik, PhD, Microbiome and Science Integrity consultant
 * Geoff Bilder, Director of Technology and Research, Crossref

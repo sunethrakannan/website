@@ -38,7 +38,7 @@ permalink: /projects/risrs2020/attendees
 * Aaron Manka, PhD, Director, Research Integrity and Administrative Investigations, National Science Foundation - Office of Inspector General
 * Michael Markie, Publishing Director, Life Sciences, [F1000](http://f1000.com/)
 * Kathrin McConnell, Director, FDA Library, Office of Information Management and Technology
-* Alice Meadows, Director of Community Engagement [NISO](https://www.niso.org/)
+* Alice Meadows, Director of Community Engagement, [NISO](https://www.niso.org/)
 * [David Moher](http://www.ohri.ca/profile/dmoher), PhD, Director, Centre of Journalology, Ottawa Hospital Research Institute; Associate Professor, School of Epidemiology and Public Health, University of Ottawa
 * Josh Nicholson, PhD, Co-founder and CEO [scite](https://scite.ai/)
 * [Ivan Oransky](https://retractionwatch.com/meet-the-retraction-watch-staff/about/), MD, Co-Founder of [Retraction Watch](https://retractionwatch.com) & Vice President, Editorial at [Medscape](https://www.medscape.com), Distinguished Writer In Residence at New York University’s Carter Journalism Institute, and president of the [Association of Health Care Journalists](https://healthjournalism.org)

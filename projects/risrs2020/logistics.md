@@ -9,7 +9,7 @@ We plan approximately twelve hours of structured discussion broken over three 4-
 Dates and Times (3 Mondays, 8AM to noon US Central time): 
 1. Monday October 26, 2020 8AM to noon US Central time ([timezone conversion](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RISRS2020+Meeting+%231&iso=20201026T08&p1=5158&ah=4)) Theme: Listening and Learning **[Day 1 Agenda PDF](https://infoqualitylab.org/images/risrs2020/day1agenda.pdf)**
 2. Monday November 9, 2020 8AM to noon US Central time ([timezone conversion](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RISRS2020+Meeting+%232&iso=20201109T08&p1=5158&ah=4)) Theme: Collaborative Agenda Setting **[Day 2 Agenda PDF](https://infoqualitylab.org/images/risrs2020/day2agenda.pdf)**
-3. Monday November 16, 2020  8AM to noon US Central time ([timezone conversion](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RISRS2020+Meeting+%233&iso=20201116T08&p1=5158&ah=4)) Theme: Commitment to Action & The Way Forward
+3. Monday November 16, 2020  8AM to noon US Central time ([timezone conversion](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RISRS2020+Meeting+%233&iso=20201116T08&p1=5158&ah=4)) Theme: Commitment to Action & The Way Forward *[Day 3 Agenda PDF](https://infoqualitylab.org/images/risrs2020/day3agenda.pdf)**
 
 Timezones corresponding:
 - Pacific 6AM to 10AM

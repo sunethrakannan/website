@@ -54,7 +54,7 @@ permalink: /projects/risrs2020/attendees
 * [Eefke Smit](https://www.stm-assoc.org/people/eefke-smit/), MA, Director of Standards and Technology, International Association of STM Publishers
 * [Elizabeth Suelzer](https://www.mcw.edu/departments/libraries/faculty/elizabeth-suelzer), MSLIS, User Education and Reference Librarian, Medical College of Wisconsin
 * [Sean Takats](https://www.c2dh.uni.lu/people/sean-takats), PhD, Professor/Chief Scientist, University of Luxembourg; Director of [Zotero](https://www.zotero.org/)
-* [Nicole Theis-Mahon](https://www.lib.umn.edu/about/staff/nicole-theis-mahon), MSLIS, AHIP, Liason Librarian & Health Sciences Collection Coordinator, Health Sciences Library, University of Minnesota
+* [Nicole Theis-Mahon](https://www.lib.umn.edu/about/staff/nicole-theis-mahon), MSLIS, AHIP, Liaison Librarian & Health Sciences Collection Coordinator, Health Sciences Library, University of Minnesota
 * Randy Townsend, MA, Director, [Journal Operations at American Geophysical Union](https://www.agu.org/Publish-with-AGU/Publish) 
 * John Willinsky, PhD, Associate Dean for Student Affairs and Khosla Family Professor of Education, Graduate School of Education, Stanford University and Director, [Public Knowledge Project](https://pkp.sfu.ca/)
 

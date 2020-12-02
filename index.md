@@ -1,7 +1,7 @@
 ---
 layout: home
 limit: 0
-show_excerpts: true
+show_excerpts: false
 entries_layout: list
 ---
 

@@ -7,8 +7,8 @@ entries_layout: list
 
 ![image of Jodi](/images/jodi_schneider.jpg "Jodi Schneider")
 
-I am Assistant Professor of Information Sciences at the University of
-Illinois Urbana-Champaign, where I teach classes in Information
+I am [Assistant Professor of Information Sciences at the University of
+Illinois Urbana-Champaign](https://ischool.illinois.edu/people/jodi-schneider), where I teach classes in Information
 Organization and Access as well as in Information Modeling. I am also a
 Faculty Affiliate of the Illinois Informatics Institute, the Beckman
 Institute (Organizational Intelligence & Computational Social Science

@@ -19,4 +19,7 @@ Timezones corresponding:
 - UK/Ireland 1PM-5PM for meeting #1, 2PM-6PM for meetings #2 and #3 (due to Daylight Savings Time differences)
 - Central Europe 1400-1800 for meeting #1, 1500-1900 for meetings #2 and #3 (due to Daylight Savings Time differences)
 
+Follow up meeting 10:30 AM to noon US Central time Tuesday February 16 ([timezone conversion](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RISRS2020+Followup+Meeting&iso=20210216T1030&p1=5158&ah=1&am=30) **[Agenda PDF](https://infoqualitylab.org/images/risrs2020/day4agenda.pdf)**
+
+
 (Originally envisioned as a 1.5-day workshop in Chicago)

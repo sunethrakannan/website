@@ -41,7 +41,7 @@ permalink: /projects/risrs2020/attendees
 * Alice Meadows, Director of Community Engagement, [NISO](https://www.niso.org/)
 * [David Moher](http://www.ohri.ca/profile/dmoher), PhD, Director, Centre of Journalology, Ottawa Hospital Research Institute; Associate Professor, School of Epidemiology and Public Health, University of Ottawa
 * Josh Nicholson, PhD, Co-founder and CEO [scite](https://scite.ai/)
-* [Ivan Oransky](https://retractionwatch.com/meet-the-retraction-watch-staff/about/), MD, Co-Founder of [Retraction Watch](https://retractionwatch.com) & Vice President, Editorial at [Medscape](https://www.medscape.com), Distinguished Writer In Residence at New York University’s Carter Journalism Institute, and president of the [Association of Health Care Journalists](https://healthjournalism.org)
+* [Ivan Oransky](https://retractionwatch.com/meet-the-retraction-watch-staff/about/), MD, Co-Founder of [Retraction Watch](https://retractionwatch.com) & Editor in Chief of [Spectrum](https://www.spectrumnews.org), Distinguished Writer In Residence at New York University’s Carter Journalism Institute, and president of the [Association of Health Care Journalists](https://healthjournalism.org)
 * Laura Paglione, Project Lead, Metadata2020
 * Katrina Pickersgill, Executive Peer Review Manager, SAGE Publications, Ltd.
 * [Deborah Poff](https://publicationethics.org/about/council/deborah-poff-0), PhD, Editor-in-Chief, Journal of Academic Ethics; Chair, Trustee Board [COPE](https://publicationethics.org/)
@@ -56,5 +56,3 @@ permalink: /projects/risrs2020/attendees
 * [Sean Takats](https://www.c2dh.uni.lu/people/sean-takats), PhD, Professor/Chief Scientist, University of Luxembourg; Director of [Zotero](https://www.zotero.org/)
 * [Nicole Theis-Mahon](https://www.lib.umn.edu/about/staff/nicole-theis-mahon), MSLIS, AHIP, Liaison Librarian & Health Sciences Collection Coordinator, Health Sciences Library, University of Minnesota
 * Randy Townsend, MA, Director, [Journal Operations at American Geophysical Union](https://www.agu.org/Publish-with-AGU/Publish) 
-
-
